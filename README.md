@@ -188,6 +188,16 @@
 </details>
 
 <details>
+  <summary><b>Gangsta Agents</b> <img src="https://badgen.net/github/stars/kucherenko/gangsta" height="14"/> - <i>Spec-driven development framework.</i></summary>
+  <blockquote>
+    Gangsta Agents is the AI skills framework for spec-driven development, built on the organizational model of mafia..
+    <br><br>
+    <a href="https://github.com/kucherenko/gangsta">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+
+<details>
   <summary><b>Gemini Auth</b> <img src="https://badgen.net/github/stars/jenslys/opencode-gemini-auth" height="14"/> - <i>Google account auth</i></summary>
   <blockquote>
     Authenticate the Opencode CLI with your Google account so you can use your existing Gemini plan.
